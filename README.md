@@ -187,11 +187,20 @@ cd my-app
 - 重启应用验证设置
 
 ### 设置截图参考
-> 注意：详细的设置界面截图请参考项目文档中的图片文件：
-> - `docs/settings_main.png` - 主设置界面
-> - `docs/baidu_api_setup.png` - 百度API配置
-> - `docs/doubao_api_setup.png` - 豆包API配置
-> - `docs/settings_saved.png` - 设置保存成功
+
+详细的设置界面截图如下：
+
+- **主设置界面**：
+  ![主设置界面](Screenshot_20250830140404.png)
+
+- **百度API配置界面**：
+  ![百度API配置](Screenshot_20250830140123.png)
+
+- **豆包API配置界面（1）**：
+  ![豆包API配置](Screenshot_20250830140200.png)
+
+- **豆包API配置界面（2）**：
+  ![豆包API配置](Screenshot_20250830140252.png)
 
 ## 📖 使用指南
 
