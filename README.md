@@ -310,7 +310,7 @@ app/src/main/java/com/example/myapp/
 
 ## 🙏 致谢
 
-- [OpenGlass项目](https://github.com/openglass) - 硬件设计
+- [OpenGlass项目]([https://github.com/openglass](https://github.com/BasedHardware/OpenGlass)) - 硬件设计
 - [豆包AI](https://www.doubao.com/) - AI对话服务
 - [百度AI](https://ai.baidu.com/) - 语音识别服务
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) - UI框架
